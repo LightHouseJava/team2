@@ -1,0 +1,49 @@
+
+.body{
+    background: bisque;
+
+}
+
+.LoginPadding{
+    margin:auto;
+    border-radius: 20px;
+    margin-top: 200px;
+    padding-top:30px;
+    width: 600px;
+    height: 440px;
+    background:lightslategrey;
+    opacity:0.5;
+    text-align: center;
+}
+
+.UserName{
+    margin-top: 2px;
+    font-size:25px;
+}
+.PassWord{
+    font-size:25px;
+}
+.InputClass{
+    width: 220px;
+    height: 30px;
+    text-align: center;
+}
+.forget{
+    margin-top: 0px;
+    text-align: center;
+}
+.button{
+    margin-top: 25px;
+}
+.LoginButton{
+    width: 100px;
+    height: 35px;
+    font-size: 15px;
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+.SignUpButton{
+    width: 100px;
+    height: 35px;
+    font-size: 15px;
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}

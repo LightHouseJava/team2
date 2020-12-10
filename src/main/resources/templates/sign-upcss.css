@@ -1,0 +1,28 @@
+.body{
+    background: bisque;
+
+}
+.form{
+    margin:auto;
+    border-radius: 20px;
+    margin-top: 10%;
+    padding-top:30px;
+    width: 400px;
+    height: 500px;
+    background:lightslategrey;
+    opacity:0.5;
+    text-align: center;
+}
+
+.button1{
+    width: 70px;
+    height: 35px;
+    font-size: 10px;
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+.button2{
+    width: 70px;
+    height: 35px;
+    font-size: 10px;
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
