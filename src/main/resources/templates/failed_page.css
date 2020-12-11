@@ -1,0 +1,32 @@
+button:link {
+  color: red;
+}
+
+/* visited link */
+button:visited {
+  color: green;
+}
+
+/* mouse over link */
+button:hover {
+  color: hotpink;
+}
+
+/* selected link */
+button:active {
+  color: blue;
+}
+button {
+    background-color: RGB(255,233,220);
+}
+body {
+	background-color: bisque;
+
+		
+    padding-bottom: middle;
+    width: 1300px;
+    height: 100px;
+    border: 15px solid grey;
+    padding: 50px;
+    margin: 50px
+}
