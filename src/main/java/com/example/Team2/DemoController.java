@@ -34,9 +34,9 @@ public class DemoController {
 
 	}
 
-	@RequestMapping(value = "/sign-up",method = RequestMethod.POST)
+	@RequestMapping("/sign_up")
 	public String signup(){
-		return"sign-up";
+		return"sign_up";
 	}
 	@RequestMapping(value = "/", method = RequestMethod.POST)
 	public String signSubmission(@RequestParam("Account Number") String userName,@RequestParam("PassWord") String password) {
